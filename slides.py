@@ -61,7 +61,7 @@ FONT_HUGE = _font("Arial Black", 96)
 
 TIMER_MARGIN = 60
 TIMER_HEIGHT = 22
-TIMER_Y = 36
+TIMER_Y = 1540  # low on screen, above where Shorts overlays title/description/progress
 TIMER_INSET = 4
 
 
